@@ -13,5 +13,6 @@ namespace CourseApp.Models
         public string No { get; set; }
         public int Limit { get; set; }
         public DateTime StartDate { get; set; }
+        public List<Student> Students { get; set; }
     }
 }

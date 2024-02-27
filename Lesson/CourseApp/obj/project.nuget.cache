@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Zu/IZunF2VZcF0xDPEFDQ0/wN6OMayfVhQN9ynR3BlWuMISjM11r7ObuoDIAlfsRwTHJzSNDNByX1kQvoPxbQ==",
+  "dgSpecHash": "/0IO3iYET3lUHwBgfcTvk8LLHYiqmNOQrtJkFVmuXhf2FMSJDC4Od6PtWt3KXiYABAe6viRXuXJyCODrLBv7nQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\elchin\\Desktop\\CodeLessons\\42. 27-02-2024\\Lesson\\CourseApp\\CourseApp.csproj",
+  "projectFilePath": "C:\\Users\\elchin\\Desktop\\CodeLessons\\42. 27-02-2024\\PB302_42_LinqMethods_EntityFramework\\Lesson\\CourseApp\\CourseApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elchin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\elchin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

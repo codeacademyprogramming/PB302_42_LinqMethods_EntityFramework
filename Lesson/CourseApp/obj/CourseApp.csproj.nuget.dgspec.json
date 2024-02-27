@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elchin\\Desktop\\CodeLessons\\42. 27-02-2024\\Lesson\\CourseApp\\CourseApp.csproj": {}
+    "C:\\Users\\elchin\\Desktop\\CodeLessons\\42. 27-02-2024\\PB302_42_LinqMethods_EntityFramework\\Lesson\\CourseApp\\CourseApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elchin\\Desktop\\CodeLessons\\42. 27-02-2024\\Lesson\\CourseApp\\CourseApp.csproj": {
+    "C:\\Users\\elchin\\Desktop\\CodeLessons\\42. 27-02-2024\\PB302_42_LinqMethods_EntityFramework\\Lesson\\CourseApp\\CourseApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elchin\\Desktop\\CodeLessons\\42. 27-02-2024\\Lesson\\CourseApp\\CourseApp.csproj",
+        "projectUniqueName": "C:\\Users\\elchin\\Desktop\\CodeLessons\\42. 27-02-2024\\PB302_42_LinqMethods_EntityFramework\\Lesson\\CourseApp\\CourseApp.csproj",
         "projectName": "CourseApp",
-        "projectPath": "C:\\Users\\elchin\\Desktop\\CodeLessons\\42. 27-02-2024\\Lesson\\CourseApp\\CourseApp.csproj",
+        "projectPath": "C:\\Users\\elchin\\Desktop\\CodeLessons\\42. 27-02-2024\\PB302_42_LinqMethods_EntityFramework\\Lesson\\CourseApp\\CourseApp.csproj",
         "packagesPath": "C:\\Users\\elchin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elchin\\Desktop\\CodeLessons\\42. 27-02-2024\\Lesson\\CourseApp\\obj\\",
+        "outputPath": "C:\\Users\\elchin\\Desktop\\CodeLessons\\42. 27-02-2024\\PB302_42_LinqMethods_EntityFramework\\Lesson\\CourseApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
